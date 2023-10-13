@@ -1,3 +1,4 @@
+
 public class Department extends homeWorkDecorator{
     homeWork homeWork;
     public Department(homeWork homeWork) {
